@@ -1,0 +1,28 @@
+{
+  "name": "Rudraksh's Favorites",
+  "appleMusicUrl": "https://music.apple.com/in/playlist/fav/pl.u-9N9L2GeT1PqZ97l",
+  "spotifyUrl": "https://open.spotify.com/playlist/6UV5jH908FftvsionFUukt",
+  "tracks": [
+    { "name": "After Hours", "artist": "The Weeknd", "album": "After Hours", "duration": "6:01", "file": "After Hours.mp3" },
+    { "name": "back to friends", "artist": "sombr", "album": "back to friends", "duration": "3:19", "file": "back to friends.mp3" },
+    { "name": "Bad Boys", "artist": "Inner Circle", "album": "Blazzin' Fire", "duration": "3:43", "file": "Bad Boys.mp3" },
+    { "name": "Blinding Lights", "artist": "The Weeknd", "album": "After Hours", "duration": "3:24", "file": "Blinding Lights.mp3" },
+    { "name": "clouds", "artist": "JVKE", "album": "clouds", "duration": "2:43", "file": "clouds.mp3" },
+    { "name": "Dracula - JENNIE Remix", "artist": "Tame Impala", "album": "Dracula (Remix)", "duration": "3:20", "file": "Dracula - JENNIE Remix.mp3" },
+    { "name": "End of Beginning", "artist": "Djo", "album": "DECIDE", "duration": "2:39", "file": "End of Beginning.mp3" },
+    { "name": "hate that i made you love me", "artist": "Ariana Grande", "album": "hate that i made you love me", "duration": "3:17", "file": "hate that i made you love me.mp3" },
+    { "name": "Lady - Hear Me Tonight", "artist": "Modjo", "album": "Modjo (Remastered)", "duration": "4:51", "file": "Lady - Hear Me Tonight.mp3" },
+    { "name": "Left and Right", "artist": "Charlie Puth, Jung Kook", "album": "Left and Right", "duration": "2:36", "file": "Left and Right (Feat. Jung Kook of BTS).mp3" },
+    { "name": "Lose My Mind", "artist": "Don Toliver, Doja Cat", "album": "Lose My Mind", "duration": "3:29", "file": "Lose My Mind (feat. Doja Cat) [From F1® The Movie].mp3" },
+    { "name": "Old Town Road - Remix", "artist": "Lil Nas X, Billy Ray Cyrus", "album": "7", "duration": "2:37", "file": "Old Town Road (feat. Billy Ray Cyrus) - Remix.mp3" },
+    { "name": "Pray For Me", "artist": "The Weeknd, Kendrick Lamar", "album": "Black Panther: The Album", "duration": "3:30", "file": "Pray For Me (with Kendrick Lamar).mp3" },
+    { "name": "Self Aware", "artist": "Temper City", "album": "Self Aware", "duration": "3:00", "file": "Self Aware.mp3" },
+    { "name": "Show Me Love", "artist": "WizTheMc, bees & honey, Tyla", "album": "Show Me Love", "duration": "2:57", "file": "Show Me Love (with Tyla).mp3" },
+    { "name": "Sunflower", "artist": "Post Malone, Swae Lee", "album": "Spider-Man: Into the Spider-Verse", "duration": "2:41", "file": "Sunflower - Spider-Man Into the Spider-Verse.mp3" },
+    { "name": "Sweater Weather", "artist": "The Neighbourhood", "album": "I Love You.", "duration": "4:12", "file": "The Neighbourhood - Sweater Weather (Official Video) - TheNeighbourhoodVEVO.mp3" },
+    { "name": "this is what falling in love feels like", "artist": "JVKE", "album": "this is what ____ feels like", "duration": "2:01", "file": "this is what falling in love feels like.mp3" },
+    { "name": "Timeless", "artist": "The Weeknd, Playboi Carti", "album": "Hurry Up Tomorrow", "duration": "3:59", "file": "Timeless (feat Playboi Carti).mp3" },
+    { "name": "We Don't Talk Anymore", "artist": "Charlie Puth, Selena Gomez", "album": "Romanticas en Ingles", "duration": "3:37", "file": "We Don’t Talk Anymore.mp3" },
+    { "name": "You", "artist": "Regard, Troye Sivan, Tate McRae", "album": "You", "duration": "3:53", "file": "You.mp3" }
+  ]
+}

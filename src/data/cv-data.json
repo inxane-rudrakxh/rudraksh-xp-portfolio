@@ -1,0 +1,20 @@
+{
+  "en": {
+    "education": [
+      { "degree": "COMPUTER SCIENCE", "institution": "Student developer · India", "year": "Current" }
+    ],
+    "workExperience": [
+      { "jobTitle": "FULL-STACK DEVELOPER", "company": "Personal and academic projects", "year": "Since 2023", "responsibilities": ["Build modern web applications with user-focused interfaces", "Create Android applications and AI-powered tools", "Ship scalable, practical digital products"] },
+      { "jobTitle": "PROJECT BUILDER", "company": "Independent", "year": "Current", "responsibilities": ["SecureVault: secure file storage", "SkillGap AI: personalized learning roadmaps", "AutoFix.sh: AI-powered CI/CD automation"] }
+    ]
+  },
+  "fr": {
+    "education": [
+      { "degree": "INFORMATIQUE", "institution": "Étudiant développeur · Inde", "year": "En cours" }
+    ],
+    "workExperience": [
+      { "jobTitle": "DÉVELOPPEUR FULL-STACK", "company": "Projets personnels et académiques", "year": "Depuis 2023", "responsibilities": ["Création d’applications web modernes centrées sur l’utilisateur", "Développement d’applications Android et d’outils basés sur l’IA", "Livraison de produits numériques pratiques et évolutifs"] },
+      { "jobTitle": "CRÉATEUR DE PROJETS", "company": "Indépendant", "year": "En cours", "responsibilities": ["SecureVault : stockage de fichiers sécurisé", "SkillGap AI : parcours d’apprentissage personnalisés", "AutoFix.sh : automatisation CI/CD par IA"] }
+    ]
+  }
+}

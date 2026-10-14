@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": { "en": "Featured projects", "fr": "Projets sélectionnés" },
+      "projects": [
+        {
+          "name": "SecureVault V2.0", "icon": "projects/folder-pangaia-icon.webp",
+          "title": { "en": "SecureVault V2.0 — Secure file storage", "fr": "SecureVault V2.0 — Stockage sécurisé" },
+          "date": { "en": "Featured project", "fr": "Projet sélectionné" },
+          "summary": { "en": "A secure file-storage experience with drag-and-drop uploads and file metadata.", "fr": "Une expérience de stockage de fichiers sécurisée avec dépôt par glisser-déposer et métadonnées." },
+          "stack": ["TypeScript", "Security", "Web"],
+          "highlights": { "en": ["Secure, user-focused file storage", "Drag-and-drop workflow", "Clear file metadata"], "fr": ["Stockage sécurisé centré utilisateur", "Flux glisser-déposer", "Métadonnées claires"] },
+          "repository": "https://github.com/inxane-rudrakxh/secure-vault-v2-main", "website": "https://secure-vault-sepia.vercel.app", "componentName": "ProjectContent", "isFocus": false, "isActive": false
+        },
+        {
+          "name": "FindMySubsidy", "icon": "projects/folder-emc2-icon.webp",
+          "title": { "en": "FindMySubsidy — Discover Indian subsidies", "fr": "FindMySubsidy — Découvrir les aides indiennes" },
+          "date": { "en": "Featured project", "fr": "Projet sélectionné" },
+          "summary": { "en": "An interactive India map for discovering state-level subsidies.", "fr": "Une carte interactive de l’Inde pour découvrir les aides par État." },
+          "stack": ["TypeScript", "Interactive UI", "Web"],
+          "highlights": { "en": ["Interactive map exploration", "State-focused subsidy discovery", "Accessible information design"], "fr": ["Exploration de carte interactive", "Recherche d’aides par État", "Information accessible"] },
+          "repository": "https://github.com/inxane-rudrakxh/state-subsidy-finder", "website": "https://find-my-subsidy.vercel.app", "componentName": "ProjectContent", "isFocus": false, "isActive": false
+        },
+        {
+          "name": "SkillGap AI", "icon": "projects/folder-clench-icon.webp",
+          "title": { "en": "SkillGap AI — Personalized learning roadmaps", "fr": "SkillGap AI — Feuilles de route personnalisées" },
+          "date": { "en": "Featured project", "fr": "Projet sélectionné" },
+          "summary": { "en": "An AI-powered skill-gap analyzer that creates personalized learning roadmaps.", "fr": "Un analyseur de lacunes de compétences basé sur l’IA qui crée des parcours personnalisés." },
+          "stack": ["TypeScript", "AI", "Web"],
+          "highlights": { "en": ["AI-guided skills analysis", "Personalized learning plans", "Practical career focus"], "fr": ["Analyse de compétences guidée par IA", "Plans d’apprentissage personnalisés", "Approche orientée carrière"] },
+          "repository": "https://github.com/inxane-rudrakxh/SkillGap", "website": "https://skill-navigator-seven.vercel.app", "componentName": "ProjectContent", "isFocus": false, "isActive": false
+        },
+        {
+          "name": "AutoFix.sh", "icon": "projects/folder-aidella-icon.webp",
+          "title": { "en": "AutoFix.sh — Self-healing deployment agent", "fr": "AutoFix.sh — Agent de déploiement auto-réparateur" },
+          "date": { "en": "Featured project", "fr": "Projet sélectionné" },
+          "summary": { "en": "An AI-powered self-healing CI/CD deployment agent for more resilient delivery workflows.", "fr": "Un agent de déploiement CI/CD auto-réparateur basé sur l’IA pour des livraisons plus robustes." },
+          "stack": ["JavaScript", "AI", "CI/CD"],
+          "highlights": { "en": ["AI-powered automation", "Resilient deployment workflows", "CI/CD-focused tooling"], "fr": ["Automatisation basée sur l’IA", "Flux de déploiement résilients", "Outils orientés CI/CD"] },
+          "repository": "https://github.com/inxane-rudrakxh/AutoFix.sh", "website": "https://autofixsh.vercel.app", "componentName": "ProjectContent", "isFocus": false, "isActive": false
+        }
+      ]
+    }
+  ]
+}
