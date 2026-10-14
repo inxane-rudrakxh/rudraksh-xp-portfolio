@@ -15,7 +15,7 @@ If you like my work and want to support me! (Every little bit helps!)
 
 ![portfolio](https://github.com/user-attachments/assets/77a7b9c0-6276-43b4-8792-a1f6e86306f0)
 
-### [https://pauljaguin.com](https://pauljaguin.com)
+### [https://rudrakshkottalwar.is-a.dev](https://rudrakshkottalwar.is-a.dev)
 
 ## 👷 Disclaimers
 
